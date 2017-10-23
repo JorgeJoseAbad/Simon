@@ -67,7 +67,21 @@ button {
   background: rgba(0, 103, 208, 0.4);
 }
 
+#red:hover {
+  background: rgba(254, 35, 34, 1);
+}
 
+#green:hover {
+  background: rgba(35, 200, 82, 1);
+}
+
+#yellow:hover {
+  background: rgba(243, 194, 16, 1);
+}
+
+#blue:hover {
+  background: rgba(0, 103, 208, 1);
+}
 
 
 #counter {
